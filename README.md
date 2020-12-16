@@ -1,17 +1,6 @@
-# form_text_field_crib_example
+Create Global key with angle bracket with FormState inside.
 
-A new Flutter application.
+key.cuurrentState.save - to save all values
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# FormExampleCrib" 
+onSave in TextFormField -> that exact  doing after saving form from FormState
+you can use controller too
